@@ -1,2 +1,3 @@
 # Boilerplate-nextJS
+
 Boilerplate nextJS
